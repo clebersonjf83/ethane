@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/onyb/ethane.git"
+    "url": "https://git.heroku.com/predador.git"
   },
   "license": "Apache-2.0",
   "dependencies": {
