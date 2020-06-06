@@ -1,2 +1,2 @@
 testrpc &
-NODE_PATH=/app/node_modules:$NODE_PATH
+NODE_PATH=/node_modules/.bin:$PATH
